@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.mjs",
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "16"
+  },
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "dependencies": {
+    "ws": "8.11.0"
+  }
+}
